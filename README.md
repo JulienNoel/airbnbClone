@@ -1,8 +1,8 @@
 ## Clone AirBnb
 
-projet déployé sur Vercel : https://cloneproject-eosin.vercel.app/
+projet frontend déployé sur Vercel : https://cloneproject-eosin.vercel.app/
 
-Technos utilisés : 
+## Technos utilisés : 
 
 -Next JS
 
